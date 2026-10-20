@@ -1,0 +1,394 @@
+Skip to notes body
+Lasith Kottawa Hewamanage
+12:31:54
+Okay.
+Okay.
+Francisco j. Blanco (EVENOR)
+12:31:58
+Well, I'm sorry, but I was… I had a previous meeting scheduled this morning, so I'll not be able to…
+Lasith Kottawa Hewamanage
+12:31:58
+Good.
+No, no, that's fine.
+I had a, like, a RURACTIVE meeting, because we have a.
+Uh, in-person meeting in Sagori next week.
+Francisco j. Blanco (EVENOR)
+12:32:15
+Uh-huh.
+Lasith Kottawa Hewamanage
+12:32:16
+So we are preparing some things for that.
+So, that was a bit urgent.
+Francisco j. Blanco (EVENOR)
+12:32:20
+Okay.
+Yeah, yeah, well, for sure. Good to know.
+Lasith Kottawa Hewamanage
+12:32:23
+No.
+You know the, the, yeah, EU projects and all.
+Francisco j. Blanco (EVENOR)
+12:32:28
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:32:29
+Okay, um…
+Any updates?
+So, um…
+Your side, because I have some things later.
+Any updates from the project, or anything?
+Francisco j. Blanco (EVENOR)
+12:32:41
+Yeah, let…
+Yeah, well, let me highlight some updates in terms of the different activities carried out during the last month.
+Uh, we are in contact with VERA and also with the local partners, sorry, local actors, in order to engage them in the forthcoming activities. In fact, we…
+We carry out that.
+pilot activity with some of the students, not from Lucena, but also with… very oriented with the technology behind the ANFORA in terms of the use of the croton and backing, in order to at least.
+Uh, to give them an opportunity to explore how is the water footprint estimation, and also what are the, at least, what is the target, no, you know, what is to provide, uh, some.
+ideas about our daily decision may have an impact in the water footprint, in the different recipes and dishes. In this case, we carry out this activity with some students from Sevilla, from our city.
+And, well, the feeling and also the feedback was very, very positive in terms of the technology behind. And also, they are very interested in terms of the.
+the feasibility to, uh, to choose the different repositories and data to define what is the specificity of the water footprint and different recipes. Uh, they highlight as well the flexibility in terms to download.
+the water footprint and also different menus when they are logged in.
+There are other students and also one professor that they are…
+Well, I really appreciate that not necessary or at least not needed to log in to use the platform because sometimes they are a little bit reluctant to use their account, this kind of personal data and privacy, you know.
+In this case, this strategy, this structure of the activity of the workshop that we carry out with these students, we would like to replicate in other academies in Lucena as well. We are in contact with the local council in order to facilitate this process.
+But also we request to VERAD in order to, uh, it's possible to contact with the people from the local actors, from the TESEL organization, in order to facilitate the process to communicate with the academy, with the local academy, because.
+We try to contact them by phone and also via email in order to communicate our interest to go there.
+carry out this activity, but the people are a little bit reluctant to invite and open the door to people that people from from out of the through Sena. So that is, that is the point. But our intention.
+is to carry out this activity probably in the forthcoming month.
+Lasith Kottawa Hewamanage
+12:35:44
+Okay, okay, that's perfect. That's perfect. So…
+Francisco j. Blanco (EVENOR)
+12:35:47
+Regarding the number of users, let me highlight that we have at this moment 32 active users registered.
+I would like to highlight that it's not the target, but as I said before, it's not necessary to login or register to use the platform. We have the indicators of the use of the platform as well, separately, as I mentioned in the previous meeting.
+And our idea is to engage now more people from Lucerne as well in the use of the tool.
+Lasith Kottawa Hewamanage
+12:36:20
+Okay, okay.
+Any, any other questions or issues?
+Francisco j. Blanco (EVENOR)
+12:36:28
+Well, we received notification that our meeting the last report was approved. So this is very nice. So this is this case. We.
+So not really comments or reaction on this report.
+Lasith Kottawa Hewamanage
+12:36:42
+No, um, not yet, yeah.
+Francisco j. Blanco (EVENOR)
+12:36:44
+Exactly, and the idea… well, I said before, uh, we are waiting to receive answer from VERA in order to have the contact details from Tesla Group.
+Lasith Kottawa Hewamanage
+12:36:56
+Okay.
+Francisco j. Blanco (EVENOR)
+12:36:57
+Uh, because I know that this information is not public, and also not included in the email list that we had.
+But that is the point. We are only to carry out some maintenance programs from the ANFORA platform. They tend to improve the usability and also reduce the latency in some estimations and calculation.
+I mean, we are working to improve the fluid activity, but the platform works. We have the recipes, we have the data, we have everything as well in this aspect.
+Lasith Kottawa Hewamanage
+12:37:26
+Okay.
+Okay, so, okay, okay, perfect, perfect, yes, lots of things going on. Okay.
+So the first one, we are still on reviewing your deliverable. That's one of the use of this call as well. I've used that point. I have some doubts as well in the data file, especially where I is on leave.
+Francisco j. Blanco (EVENOR)
+12:37:50
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:37:56
+Uh, I think this week as well, he's on the conference, so…
+Uh, she won't having time to review that yet as well, so…
+We may take some time for your report.
+Francisco j. Blanco (EVENOR)
+12:38:08
+Okay.
+Lasith Kottawa Hewamanage
+12:38:09
+So, I will move into the… into the questions from my side.
+So, I will start with…
+Peace.
+So, this is your indicator list that you send me data, but this is the detailed list.
+Francisco j. Blanco (EVENOR)
+12:38:20
+Mmhm.
+Lasith Kottawa Hewamanage
+12:38:25
+Okay.
+Uh, so in the last meeting, you mentioned that you are going to use both.
+AMT and API to send us data. Is that correct?
+Francisco j. Blanco (EVENOR)
+12:38:38
+Yes, uh, because, uh, we evaluate the possibility to… to… to carry out for the two ways, but I think that, uh, I don't know if SUSE at the end will call it… will at least connect it through this platform, or we are waiting to receive, uh, the user, and so on. I don't know.
+Lasith Kottawa Hewamanage
+12:38:55
+So, if… if… if you have any idea about which data fields you are going to send through the API, or do you have any idea?
+Francisco j. Blanco (EVENOR)
+12:39:00
+Okay.
+Lasith Kottawa Hewamanage
+12:39:04
+From this list.
+Francisco j. Blanco (EVENOR)
+12:39:05
+I… I will check it, because I remember one… one of the indicators on the platform, we would like to connect directly through the… through the… through the backend, but it's something they need to check it.
+Lasith Kottawa Hewamanage
+12:39:14
+Okay, so what I can do is, I will send you this Excel file again to you, a new version, and then what you need to do is, if you are sending the data through API or DMS.
+Francisco j. Blanco (EVENOR)
+12:39:20
+Yep.
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:39:27
+If you are sent through DMS, please put.
+True in the field, here. Auto-accept.
+Because that value is not going to verify. This value will register automatically to the server.
+Francisco j. Blanco (EVENOR)
+12:39:34
+Okay.
+Lasith Kottawa Hewamanage
+12:39:42
+Right?
+Francisco j. Blanco (EVENOR)
+12:39:42
+Okay, I see.
+Lasith Kottawa Hewamanage
+12:39:44
+Uh, put the… put the true value in… in here.
+Francisco j. Blanco (EVENOR)
+12:39:48
+Okay.
+Lasith Kottawa Hewamanage
+12:39:49
+Okay.
+Francisco j. Blanco (EVENOR)
+12:39:51
+Understood
+Lasith Kottawa Hewamanage
+12:39:53
+Second…
+This one. So, this is the data file that you sent to me.
+Francisco j. Blanco (EVENOR)
+12:40:00
+Mmhm.
+Lasith Kottawa Hewamanage
+12:40:02
+uh… for the…
+For the monitoring period of this one. But I haven't got any true values. It's all not measured or not verified.
+Francisco j. Blanco (EVENOR)
+12:40:13
+Okay.
+Lasith Kottawa Hewamanage
+12:40:13
+Do you have any…
+Francisco j. Blanco (EVENOR)
+12:40:15
+Yeah, regarding training…
+Lasith Kottawa Hewamanage
+12:40:16
+My values?
+Francisco j. Blanco (EVENOR)
+12:40:17
+Well, regarding training users, the last one that we carried out with the trainer was, let me check the number.
+We achieved, uh… let me check the latest number…
+Uh, 48 trainers, 48 trainers, and we would like to, well, we will overcome this, uh, this number, of course, uh, with the events that we would like to carry out in Lucena as well. So this is the, that is the current value that we have.
+Lasith Kottawa Hewamanage
+12:40:50
+But… but that value should be in between 1st of March and 31st of August.
+I think that's what you mentioned here.
+Francisco j. Blanco (EVENOR)
+12:40:58
+Yep.
+Lasith Kottawa Hewamanage
+12:41:00
+Um… ye…
+Francisco j. Blanco (EVENOR)
+12:41:01
+I, I will, I will, I will check the exact number for this period, okay? But I will send it to you, and also maybe put it in the Excel sheet.
+Lasith Kottawa Hewamanage
+12:41:02
+What we can do.
+Francisco j. Blanco (EVENOR)
+12:41:10
+Because we need to distinguish the trainer that we carry out in the last one with the previous one.
+Lasith Kottawa Hewamanage
+12:41:11
+Okay.
+Yeah. So, would you like to send me the data again, or before I start very, like, um, reviewing your data, like, your…
+Uh, for, like, deliverable, or what you want to do? You want to go with these numbers, not these values, or would you like to send me a new file, later file?
+Francisco j. Blanco (EVENOR)
+12:41:38
+Um, I think it's more feasible to send you a new file with the updated.
+What did you prepare? Anyway, it's up to you with the values.
+Lasith Kottawa Hewamanage
+12:41:46
+No, no, it's up to you, because if you want to show the data, like, with the deliverable.
+Uh, it's up to you. I can, uh…
+Whatever the best way is to put the… put the correct values, not, like, these, like, uh…
+Francisco j. Blanco (EVENOR)
+12:42:03
+Okay.
+Lasith Kottawa Hewamanage
+12:42:03
+Uh, like, not verified or not accessible.
+Kind of
+Things, if you can put me… give me, like.
+real data values
+Francisco j. Blanco (EVENOR)
+12:42:13
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:42:14
+That would be helpful for me to verify your deliverable as well.
+Francisco j. Blanco (EVENOR)
+12:42:18
+Okay, so I think that, uh, we will send it to you again with the real values, and then we will, if there is any potential update in the, in the, of course, in the new deliverables, we will, uh, communicate you, okay?
+Lasith Kottawa Hewamanage
+12:42:31
+Yeah. Yeah, that's good. So if you can send me the correct values for these indicators, that would be also…
+Francisco j. Blanco (EVENOR)
+12:42:36
+Yep.
+Lasith Kottawa Hewamanage
+12:42:40
+Uh, easy to verify your report. And for this one?
+Now let me know the true, false values, so I will update the database.
+Francisco j. Blanco (EVENOR)
+12:42:44
+Mmhm.
+Okay.
+Lasith Kottawa Hewamanage
+12:42:51
+For the… for the API access.
+So, we kind of simplified.
+Uh, the way that you need to communicate the database, to the database.
+So you just need to call an API endpoint.
+And then you can just save the values. So we… you don't need to use VPN.
+Francisco j. Blanco (EVENOR)
+12:43:05
+Right.
+Okay.
+Lasith Kottawa Hewamanage
+12:43:10
+And other technologies, you… so you can just…
+Uh, get the token using… we will give you username and passwords.
+Francisco j. Blanco (EVENOR)
+12:43:16
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:43:20
+Then you can get a token, and then you can use that token to communicate with our API.
+for the database.
+Um, yeah. That's the two things I need to verify. Uh, I think, uh…
+And your payment will be… we are trying to finish up.
+The reviewing process end of this month.
+Oh, then you will get the payment.
+More towards…
+First two weeks in November.
+So, hopefully.
+Sorry for the delay, because we, we are, like, our dynamos are busy with…
+All of the world.
+Francisco j. Blanco (EVENOR)
+12:43:59
+No worries, no worries, no worries. So, what is the final date of your project for RACTIC?
+Lasith Kottawa Hewamanage
+12:44:07
+Sorry?
+Francisco j. Blanco (EVENOR)
+12:44:09
+What is the deadline for RORACTIC project?
+Lasith Kottawa Hewamanage
+12:44:12
+Uh, we will finish up all the work.
+Except him. No.
+June, July… August, I think?
+Francisco j. Blanco (EVENOR)
+12:44:22
+Mm-hmm.
+Lasith Kottawa Hewamanage
+12:44:23
+September is the kind of final dissemination.
+Uh, activities will be on September.
+Francisco j. Blanco (EVENOR)
+12:44:28
+Okay, be good. Be…
+Oh, because our idea is beyond the the when we finalize this, this this agreement for the ANFORA. We would like to maintain some material. We would like to create some dissemination materials as well in order to continue promoting the the tools. So maybe if this request any kind of material for the your final event, let us know, and we'll try to sell it to you.
+Lasith Kottawa Hewamanage
+12:44:48
+Yeah.
+Yeah, definitely, we will have, like, kind of a symposium kind of thing for all innovators. We will ask you to kind of give us a poster, or…
+Francisco j. Blanco (EVENOR)
+12:44:58
+Hmm.
+Okay.
+Lasith Kottawa Hewamanage
+12:45:03
+Maybe kind of a dissemination thing?
+So we will maybe invite you as well, I don't know, with the budget, because you have a separate budget.
+Francisco j. Blanco (EVENOR)
+12:45:11
+Yeah, I know, I know, I know, but anyway, it's part of our activity, try to always to disseminate all the…
+Lasith Kottawa Hewamanage
+12:45:12
+Not, uh… yeah.
+Yep.
+We will kind of do a… yeah, definitely we will do a kind of symposium at any time.
+Francisco j. Blanco (EVENOR)
+12:45:19
+these things.
+Lasith Kottawa Hewamanage
+12:45:24
+So, to disseminate all the innovative works in the rural areas.
+Francisco j. Blanco (EVENOR)
+12:45:29
+Okay.
+Lasith Kottawa Hewamanage
+12:45:31
+You, you are using some, some AI…
+AI tools, right?
+For the… border index?
+Francisco j. Blanco (EVENOR)
+12:45:38
+In the terms… yeah… no, uh, well, in the platform, we use AI in order to provide some estimation that we're not included in the… in the platform, in the database, and we always communicate if this data is suggested by AI, this… we always communicate the transparency.
+And also, when we're using the transparent… well, we're using some dissemination materials that we supported, at least for editing some pictures or editing some actions, we included that… some sentence that these materials are being supported by using the AI tool or something like that. We always use the specific word.
+Lasith Kottawa Hewamanage
+12:46:16
+No, no, I'm, like, I'm preparing a manage, like, a research paper on, like, AI for rural areas, kind of. So I thought, if you are using some AI technologies, not for the image and text, but, you know, processing data or something like that, maybe we can include.
+Francisco j. Blanco (EVENOR)
+12:46:29
+Yes, we… we use it… we use it for estimates on water footprint based on the… on the activity, but we… maybe if you request more details, I will try to compile this information.
+Lasith Kottawa Hewamanage
+12:46:32
+Uh, project as well.
+Maybe I will request a testimony, or, like, kind of your comments, kind of like a…
+Rough or two?
+Francisco j. Blanco (EVENOR)
+12:46:50
+Okay.
+Lasith Kottawa Hewamanage
+12:46:50
+So, to include as a, as a, like, a testimony to the paper, so maybe I will contact you.
+Francisco j. Blanco (EVENOR)
+12:46:57
+Okay.
+Lasith Kottawa Hewamanage
+12:46:59
+Perfect.
+Any other questions?
+Francisco j. Blanco (EVENOR)
+12:47:01
+Good to know.
+No question, no question. Today is a very busy morning, you know.
+Lasith Kottawa Hewamanage
+12:47:10
+Okay, okay, then I'll let you go, and uh… I will give you these two files again, so you can send me back, okay?
+Francisco j. Blanco (EVENOR)
+12:47:16
+Okay, thank you, Lancet. We keep in touch. See you!
+Lasith Kottawa Hewamanage
+12:47:18
+Thank you.
+
+editor
+
+ 
